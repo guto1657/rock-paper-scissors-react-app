@@ -7,12 +7,10 @@
 
 .box.moveRight{
   animation: MoveRight .7s forwards;
-  margin-right: 35px;
 }
 
 .box.moveLeft {
   animation: MoveLeft .7s forwards;
-  margin-left: 35px;
 }
 
 @keyframes MoveLeft {
@@ -96,12 +94,12 @@
 
   .box.moveRight{
     animation: none;
-    grid-area: left;
+    margin-right: 35px;
   }
 
   .box.moveLeft {
     animation: none;
-    grid-area: right;
+    margin-left: 35px;
   }
 
   .box h1 {
