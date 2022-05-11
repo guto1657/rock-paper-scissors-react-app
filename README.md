@@ -10,7 +10,7 @@ In this project users should be able to:
 
 ## screenshot
 
-![rockpaperscissors](https://user-images.githubusercontent.com/70277574/167902701-da0ec4c0-4513-4cbf-82d5-4478159796c4.gif)
+![rockpaperscissors](https://user-images.githubusercontent.com/70277574/167904742-0ace7d90-a2d6-4c02-a917-b5f4a37046d5.gif)
 
 ### Rules
 
