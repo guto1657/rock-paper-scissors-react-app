@@ -10,7 +10,7 @@ In this project users should be able to:
 
 ## screenshot
 
-
+![rockpaperscissors](https://user-images.githubusercontent.com/70277574/167902701-da0ec4c0-4513-4cbf-82d5-4478159796c4.gif)
 
 ### Rules
 
@@ -23,7 +23,7 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 
 ## Deploying
 
-- [Vercel](https://vercel.com/)
+- [Vercel](https://rock-paper-scissors-react-app.vercel.app/
 
 ## Tools and technologies
 for the development of this project the following technologies where used:
