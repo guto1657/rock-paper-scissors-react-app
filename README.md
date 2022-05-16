@@ -23,7 +23,7 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 
 ## Deploying
 
-- [Vercel](https://rock-paper-scissors-react-app.vercel.app/
+- [Vercel](https://rock-paper-scissors-react-app.vercel.app/)
 
 ## Tools and technologies
 for the development of this project the following technologies where used:
